@@ -7,6 +7,10 @@ git remote add origin https://github.com/jahidHasanDev/tajem.git
 git push -u origin main
 
 
+//error show korle
+ git config --global user.emal "coderjahid25@gmail.com"
+git config --global user,name "
+
 git remote add origin https://github.com/jahidHasanDev/tajem.git
 git branch -M main
 git push -u origin main
